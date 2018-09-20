@@ -2,6 +2,7 @@
   "name": "leaflet-shades",
   "version": "0.1.2",
   "description": "",
+  "author": ["dan.vu", "Mandy Kong"],
   "main": "src/js/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,22 +11,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mkong0216/leaflet-shades.git"
+    "url": "git+https://github.com/danvucore/leaflet-shades.git"
   },
   "keywords": [
     "map",
     "leaflet",
     "shades"
   ],
-  "author": "Mandy Kong",
+
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mkong0216/leaflet-shades/issues"
+    "url": "https://github.com/danvucore/leaflet-shades/issues"
   },
   "browserify-shim": {
     "leaflet": "global:L"
   },
-  "homepage": "https://github.com/mkong0216/leaflet-shades#readme",
+  "homepage": "https://github.com/danvucore/leaflet-shades#readme",
   "dependencies": {
     "leaflet-editable": "^1.1.0",
     "leaflet.path.drag": "0.0.6"
